@@ -10,7 +10,7 @@ const PostsPage = async () => {
   return (
     <div className="w-full">
       <h2 className="text-2xl text-center text-red-600 p-2">
-        Total Postsssssss: {posts.length}
+        Total Posts: {posts.length}
       </h2>
       {posts.map((post) => (
         <div
