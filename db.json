@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget justo vel lacus suscipit varius.",
+      "title": "First Item",
+      "like_count": 20
+    },
+    {
+      "id": 2,
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "title": "Second Item",
+      "like_count": 1
+    },
+    {
+      "id": 3,
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "title": "Third Item",
+      "like_count": 30
+    },
+    {
+      "id": 4,
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "title": "Fourth Item",
+      "like_count": 25
+    },
+    {
+      "id": 5,
+      "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+      "title": "Fifth Item",
+      "like_count": 18
+    },
+    {
+      "id": 6,
+      "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+      "title": "Fifth Item",
+      "like_count": 18
+      },
+    {
+      "id": 7,
+      "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+      "title": "Fifth Item",
+      "like_count": 20
+      }
+  ]
+}
